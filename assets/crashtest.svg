@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg2"
+   viewBox="0 0 461.83009 461.83011"
+   version="1.1"
+   sodipodi:docname="crashtest.svg"
+   width="461.83011"
+   height="461.83011"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs34" />
+  <sodipodi:namedview
+     id="namedview32"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.71089722"
+     inkscape:cx="177.24081"
+     inkscape:cy="233.50774"
+     inkscape:window-width="1366"
+     inkscape:window-height="697"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata29">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Crash Test Markers</dc:title>
+        <dc:date>2013-09-02T09:25:23</dc:date>
+        <dc:description>Crash Test Markers</dc:description>
+        <dc:source>https://openclipart.org/detail/182831/crash-test-markers-by-mpuq-182831</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>mpuq</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>crash test</rdf:li>
+            <rdf:li>markers</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g4539"
+     transform="rotate(90,288.7929,549.8014)">
+    <path
+       id="path3652"
+       transform="matrix(0.98245,0,0,0.98245,-863.27,-158.17)"
+       fill="#ffcc00"
+       d="m 1083.1,779.53 c 0,129.81 -105.23,235.04 -235.04,235.04 -129.81,0 -235.04,-105.23 -235.04,-235.04 0,-129.81 105.23,-235.04 235.04,-235.04 129.81,0 235.04,105.23 235.04,235.04 z" />
+    <path
+       id="path1874"
+       d="m -28.369,398.04 -1.7494,209.63 h 209.63 c 0,-115.14 -92.962,-208.69 -207.88,-209.63 z m -1.7494,209.63 h -209.63 c 0,115.14 92.962,208.69 207.88,209.63 l 1.7494,-209.63 z" />
+  </g>
+</svg>
