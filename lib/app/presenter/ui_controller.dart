@@ -63,4 +63,24 @@ class UiController {
     );
   }
 
+  snackSignup(BuildContext context){
+    try{
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(
+          content: Text('Cadastro efetuado com sucesso!'),
+        ),
+      );
+      return null;
+    }catch(e){
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(
+          content: Text('Houve algum erro...'),
+        ),
+      );
+      return e;
+    }
+
+
+  }
+
   }

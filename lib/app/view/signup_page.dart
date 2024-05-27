@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:teste_flutter/app/model/services/auth_serv.dart';
+import 'package:teste_flutter/app/presenter/ui_controller.dart';
 
 class SignupPage extends StatefulWidget {
   const SignupPage({Key? key}) : super(key: key);
@@ -15,7 +16,7 @@ class _SignupPageState extends State<SignupPage> {
   TextEditingController _passController = TextEditingController();
 
   final AuthServ _authServ = AuthServ();
-
+  final UiController _uiController = UiController();
 
 
   @override
@@ -76,6 +77,7 @@ class _SignupPageState extends State<SignupPage> {
                     String email = _emailController.text;
                     String pass = _passController.text;
                     print(_authServ.signupUser(name: name, email: email, pass: pass));
+                    _uiController.snackSignup(context);
                   },
                   style: ElevatedButton.styleFrom(backgroundColor: Colors.yellow),
                   child: Text(
